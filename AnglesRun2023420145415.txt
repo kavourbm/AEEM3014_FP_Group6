@@ -1,0 +1,3 @@
+              Target: Force: 4448.22100 
+ Starting Conditions: Force: 1901.21100, AoA: -0.01500 
+        Next Attempt: Force: 3148.60600, AoA:  2.98670, Guess: 15.29411 temp1: 1247.39500, temp2:  3.00170, temp3: 415.56285 
